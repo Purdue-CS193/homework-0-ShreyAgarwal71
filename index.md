@@ -1,4 +1,4 @@
-#Shrey Agarwal's Website on Github
+# Shrey Agarwal's Website on Github
 
 - My friends
 - The chance to learn new things
